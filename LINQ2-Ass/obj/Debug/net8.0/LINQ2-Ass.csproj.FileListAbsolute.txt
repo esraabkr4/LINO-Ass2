@@ -1,0 +1,14 @@
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\bin\Debug\net8.0\LINQ2-Ass.exe
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\bin\Debug\net8.0\LINQ2-Ass.deps.json
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\bin\Debug\net8.0\LINQ2-Ass.runtimeconfig.json
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\bin\Debug\net8.0\LINQ2-Ass.dll
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\bin\Debug\net8.0\LINQ2-Ass.pdb
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.AssemblyInfoInputs.cache
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.AssemblyInfo.cs
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.csproj.CoreCompileInputs.cache
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.dll
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\refint\LINQ2-Ass.dll
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.pdb
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.genruntimeconfig.cache
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\ref\LINQ2-Ass.dll
