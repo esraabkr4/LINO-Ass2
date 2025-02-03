@@ -12,3 +12,4 @@ E:\Root course\c#\Basics\LINQ-2\LINQ-2\obj\Debug\net8.0\refint\LINQ2_Demo.dll
 E:\Root course\c#\Basics\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ2_Demo.pdb
 E:\Root course\c#\Basics\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ2_Demo.genruntimeconfig.cache
 E:\Root course\c#\Basics\LINQ-2\LINQ-2\obj\Debug\net8.0\ref\LINQ2_Demo.dll
+E:\Root course\c#\Basics\LINQ-2\LINQ-2\obj\Debug\net8.0\LINQ2_Demo.sourcelink.json

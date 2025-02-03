@@ -12,3 +12,4 @@ E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\refint\LINQ2-Ass.dll
 E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.pdb
 E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.genruntimeconfig.cache
 E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\ref\LINQ2-Ass.dll
+E:\Root course\c#\Basics\LINQ-2\LINQ2-Ass\obj\Debug\net8.0\LINQ2-Ass.sourcelink.json

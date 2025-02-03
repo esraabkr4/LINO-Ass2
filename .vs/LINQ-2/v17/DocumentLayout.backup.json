@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +15,26 @@
       "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7463EA55-91F4-4A4C-A53A-0222732D02E5}|LINQ-2\\LINQ-2.csproj|e:\\root course\\c#\\basics\\linq-2\\linq-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7463EA55-91F4-4A4C-A53A-0222732D02E5}|LINQ-2\\LINQ-2.csproj|solutionrelative:linq-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\customcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\customcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7463EA55-91F4-4A4C-A53A-0222732D02E5}|LINQ-2\\LINQ2_Demo.csproj|e:\\root course\\c#\\basics\\linq-2\\linq-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7463EA55-91F4-4A4C-A53A-0222732D02E5}|LINQ-2\\LINQ2_Demo.csproj|solutionrelative:linq-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\CustomComparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|e:\\root course\\c#\\basics\\linq-2\\linq2-ass\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FB029C-4419-4075-BD16-9E7189CADC25}|LINQ2-Ass\\LINQ2-Ass.csproj|solutionrelative:linq2-ass\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +44,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LINQ-1\\Ass-Linq-1\\Program.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\Program.cs",
+              "RelativeToolTip": "..\\LINQ-1\\Ass-Linq-1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwFgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:49:29.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "CustomComparer.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\CustomComparer.cs",
+              "RelativeDocumentMoniker": "LINQ2-Ass\\CustomComparer.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\CustomComparer.cs",
+              "RelativeToolTip": "LINQ2-Ass\\CustomComparer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:55:50.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\Customer.cs",
               "RelativeDocumentMoniker": "LINQ2-Ass\\Customer.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\Customer.cs",
               "RelativeToolTip": "LINQ2-Ass\\Customer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA0wAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T12:22:07.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ListGenerator.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\ListGenerator.cs",
               "RelativeDocumentMoniker": "LINQ2-Ass\\ListGenerator.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\ListGenerator.cs",
               "RelativeToolTip": "LINQ2-Ass\\ListGenerator.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAQwAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwv7QAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T12:21:56.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\Order.cs",
               "RelativeDocumentMoniker": "LINQ2-Ass\\Order.cs",
@@ -76,12 +108,11 @@
               "RelativeToolTip": "LINQ2-Ass\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:21:33.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:21:33.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\Product.cs",
               "RelativeDocumentMoniker": "LINQ2-Ass\\Product.cs",
@@ -89,8 +120,7 @@
               "RelativeToolTip": "LINQ2-Ass\\Product.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAywAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:21:20.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:21:20.654Z"
             },
             {
               "$type": "Document",
@@ -100,23 +130,39 @@
               "RelativeDocumentMoniker": "LINQ2-Ass\\Program.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ2-Ass\\Program.cs*",
               "RelativeToolTip": "LINQ2-Ass\\Program.cs*",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAQwMMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAABkBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T09:54:55.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ-2\\Program.cs",
               "RelativeDocumentMoniker": "LINQ-2\\Program.cs",
               "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-2\\LINQ-2\\Program.cs",
               "RelativeToolTip": "LINQ-2\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAewBIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T08:11:33.163Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomComparer.cs",
+              "DocumentMoniker": "E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\CustomComparer.cs",
+              "RelativeDocumentMoniker": "..\\LINQ-1\\Ass-Linq-1\\CustomComparer.cs",
+              "ToolTip": "E:\\Root course\\c#\\Basics\\LINQ-1\\Ass-Linq-1\\CustomComparer.cs",
+              "RelativeToolTip": "..\\LINQ-1\\Ass-Linq-1\\CustomComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:00:50.953Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
